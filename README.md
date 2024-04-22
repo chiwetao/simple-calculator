@@ -1,5 +1,6 @@
-# INFO 4340/5440 - Homework 4
+# Simple Calculator
 
+Hi there! This is a simple math calculator. Use as you please!
 Open this repository as a Codespace on GitHub (or as a container in VS Code.)
 
 ## Development Server
